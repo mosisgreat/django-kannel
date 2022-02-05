@@ -1,1 +1,1 @@
-django-kannel
+django-vuejs-jajeuf
